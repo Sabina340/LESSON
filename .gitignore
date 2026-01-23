@@ -1,0 +1,7 @@
+# Python cache
+pycache/
+*.pyc
+
+# Allure
+allure-results/
+allure-report/
